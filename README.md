@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/wesley.fzz)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/wesleyfzz_)
 
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleysilva6_icons=true&theme=dracula)
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleysilva_icons=true&theme=dracula)
 
 ## Tecnologias ##
 
