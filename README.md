@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleysilva6&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Wesley Silva github stats" /> 
-  <img width="41%" height="195px" src="https://camo.githubusercontent.com/3a92ab727cd4a854f180ee2fb103c8513dd556d4f4c17c4f9f7c7adae81871ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7765736c6579265f69636f6e733d74727565267468656d653d64726163756c61" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleysilva6&show_icons=true&theme=transparent)" />
 </div>
 
 
