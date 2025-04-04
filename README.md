@@ -30,4 +30,4 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
     </a>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer">
