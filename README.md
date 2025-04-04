@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Wesley+Silva;I'm+16+years+old;I+am+from+Douradina,+PR;)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleysilva6&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=800080&text_color=800080&bg_color=0d1117" alt="Wesley Silva github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleysilva6&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=800080&bg_color=0d1117" alt="Wesley Silva github stats" /> 
   <img width="41%" height="195px" src="https://camo.githubusercontent.com/3a92ab727cd4a854f180ee2fb103c8513dd556d4f4c17c4f9f7c7adae81871ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7765736c6579265f69636f6e733d74727565267468656d653d64726163756c61" />
 </div>
 
