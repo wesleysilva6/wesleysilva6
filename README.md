@@ -35,9 +35,14 @@
 <strong>Contato: </strong>
   </br>
   <a href="">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
+    <img src="https://github-profile-trophy.vercel.app/?username=wesleysilva6&theme=darkhub" width="50px">
     </a>
 </p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wesleysilva6&theme=darkhub">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleysilva6/wesleysilva6/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleysilva6/wesleysilva6/output/pacman-contribution-graph.svg">
