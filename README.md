@@ -35,7 +35,7 @@
 <strong>Contato: </strong>
   </br>
   <a href="">
-    <img src="https://github-profile-trophy.vercel.app/?username=wesleysilva6&theme=darkhub" width="50px">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
     </a>
 </p>
 
