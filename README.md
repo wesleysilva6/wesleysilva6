@@ -4,12 +4,12 @@
 
 ---
 
-<h3 align="center"> Sobre mim</h2>
-Atualmente estou cursando o 3º ano do Ensino Médio, possuo 17 anos e atuo como Jovem Aprendiz na área de Tecnologia da Informação (Gazin Tech), na empresa Gazin. Tenho interesse e dedicação no desenvolvimento de habilidades relacionadas à tecnologia e inovação. Resido em Douradina, Paraná, e busco constantemente novos conhecimentos e experiências que contribuam para o meu crescimento pessoal e profissional.
+<h3 align="center"> About me</h2>
+I am currently in my third year of high school, I am 17 years old, and I work as a Young Apprentice in the Information Technology area (Gazin Tech) at the Gazin company. I am interested in and dedicated to developing skills related to technology and innovation. I live in Douradina, Paraná, and I constantly seek new knowledge and experiences that contribute to my personal and professional growth.
 
 ---
 
-<h3 align="center">🚀 Stacks & Ferramentas</h3>
+<h3 align="center">🚀 Stacks & Tools</h3>
 
 <h4 align="center">Front-end:</h4>
 <div align="center">
@@ -43,7 +43,7 @@ Atualmente estou cursando o 3º ano do Ensino Médio, possuo 17 anos e atuo como
 
   <img height="50" />
 
-<h4 align="center">Ferramentas:</h4>
+<h4 align="center">Tools:</h4>
 <div align="center">
     <code> <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" /> </code>
     <img width="12" />
@@ -65,14 +65,14 @@ Atualmente estou cursando o 3º ano do Ensino Médio, possuo 17 anos e atuo como
 
 ---
 
-<h3 align="center">🏆 Troféus</h3>
+<h3 align="center">🏆 Trophies</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wesleysilva6&theme=onestar&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-<h3 align="center">📫 Contato</h3>
+<h3 align="center">📫 Contact</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/wesleysilva">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
@@ -81,7 +81,7 @@ Atualmente estou cursando o 3º ano do Ensino Médio, possuo 17 anos e atuo como
 
 ---
 
-<h3 align="center">🎮 Atividade divertida</h3>
+<h3 align="center">🎮 Fun activity</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleysilva6/wesleysilva6/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleysilva6/wesleysilva6/output/pacman-contribution-graph.svg">
