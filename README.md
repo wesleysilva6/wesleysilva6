@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center"> About me</h2>
-I am currently in my third year of high school, I am 17 years old, and I work as a Young Apprentice in the Information Technology area (Gazin Tech) at the Gazin company. I am interested in and dedicated to developing skills related to technology and innovation. I live in Douradina, Paraná, and I constantly seek new knowledge and experiences that contribute to my personal and professional growth.
+I have completed high school and am currently studying Internet Systems at UniALFA. I work as a Young Apprentice in Information Technology (Gazin Tech) at Gazin, focusing on continuous learning and the development of skills related to technology and innovation. I am based in Douradina, Paraná, Brazil, and I am also enrolled in the Wizard English course to enhance my proficiency in English and broaden my professional opportunities.
 
 ---
 
