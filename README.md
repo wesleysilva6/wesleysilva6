@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center"> About me</h2>
-I have completed high school and am currently studying Internet Systems at UniALFA. I work as a Young Apprentice in Information Technology (Gazin Tech) at Gazin, focusing on continuous learning and the development of skills related to technology and innovation. I am based in Douradina, Paraná, Brazil, and I am also enrolled in the Wizard English course to enhance my proficiency in English and broaden my professional opportunities.
+I have completed high school and am currently studying Internet Systems at UniALFA. I work at Magazine do Povo, focusing on continuous learning and the development of skills related to technology and innovation. I am based in Douradina, Paraná, Brazil, and I am also enrolled in the Wizard English course to enhance my proficiency in English and broaden my professional opportunities.
 
 ---
 
