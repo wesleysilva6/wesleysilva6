@@ -1,91 +1,67 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e90ff,100:00bfff&height=200&section=header&text=Wesley%20Silva&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Magazine%20do%20Povo&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Wesley+Silva!;I'm++17+years+old;From+Douradina,+PR;Developer+Full-Stack)](https://git.io/typing-svg)
-
----
-
-<h3 align="center"> About me</h2>
-I have completed high school and am currently studying Internet Systems at UniALFA. I work at Magazine do Povo, focusing on continuous learning and the development of skills related to technology and innovation. I am based in Douradina, Paraná, Brazil, and I am also enrolled in the Wizard English course to enhance my proficiency in English and broaden my professional opportunities.
-
----
-
-<h3 align="center">🚀 Stacks & Tools</h3>
-
-<h4 align="center">Front-end:</h4>
-<div align="center">
-  <code> <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" /> </code>
-  <img width="12" />
-  <code> <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" /> </code>
-  <img width="12" />
-  <code> <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" /> </code>
-  <img width="12" />
-  <code> <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo" /> </code>
-  <img width="12" />
-  <code> <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" /> </code>
-  <img width="12" />
-  <code> <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" /> </code>
-  <img width="12" />
-</div>
-
-  <img height="50" />
-
-<h4 align="center">Back-end:</h4>
-<div align="center">
-    <code> <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" /> </code>
-    <img width="12" />
-    <code> <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" /> </code>
-    <img width="12" />
-    <code> <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" /> </code>
-    <img width="12" />
-    <code> <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" /> </code>
-    <img width="12" />
-</div>
-
-  <img height="50" />
-
-<h4 align="center">Tools:</h4>
-<div align="center">
-    <code> <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" /> </code>
-    <img width="12" />
-    <code> <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" /> </code>
-    <img width="12" />
-    <code> <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" /> </code>
-    <img width="12" />
-    <code> <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" /> </code>
-    <img width="12" />
-</div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wesleysilva6&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysilva6&layout=compact&hide_border=true&title_color=00bfff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
----
-
-<h3 align="center">🏆 Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wesleysilva6&theme=onestar&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-<h3 align="center">📫 Contact</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/wesleysilva">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+web+apps+end+to+end+%F0%9F%9A%80;React+%2B+TypeScript+%7C+PHP+%2B+Laravel;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesleysilva">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Douradina%2C%20PR-Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=wesleysilva6&label=Profile%20views&color=1e90ff&style=for-the-badge" alt="Profile views" />
+</p>
+
 ---
 
-<h3 align="center">🎮 Fun activity</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleysilva6/wesleysilva6/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleysilva6/wesleysilva6/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wesleysilva6/wesleysilva6/output/pacman-contribution-graph.svg">
-</picture>
+## 👨‍💻 About Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+I'm an **18-year-old Full-Stack Developer** at **Magazine do Povo**, passionate about turning ideas into reliable, well-crafted web applications. I enjoy working across the whole stack, from polished user interfaces to solid back-end services, and I care about clean code, continuous learning and building solutions that make a real difference for the business.
+
+- 💼 Currently working as a **Full-Stack Developer** at **Magazine do Povo**
+- 🎓 Studying **Internet Systems** at **UniALFA**
+- 🌎 Improving my English at **Wizard**
+- 🌱 Always exploring new tools and best practices
+- ⚡ Fun fact: I write code before I write my coffee order ☕
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&perline=6" alt="Front-end stack" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Back-end & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres&perline=6" alt="Back-end stack" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,npm,vscode&perline=6" alt="Tools" /></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleysilva6&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleysilva6&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=wesleysilva6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:1e90ff,100:1a1b27&height=120&section=footer" />
